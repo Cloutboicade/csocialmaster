@@ -1,0 +1,10 @@
+gspread==5.6.2
+instagrapi==1.16.29
+requests~=2.26.0
+schedule==1.1.0
+selenium~=4.6.0
+undetected_chromedriver==3.1.5.post4
+yt-dlp
+autopylogger
+praw
+selenium-stealth
